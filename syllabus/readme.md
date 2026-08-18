@@ -124,7 +124,7 @@ Activities and assessments:
   - in-class problem set 1
   - in-class pre-course survey and Slack introductions
 
-## Sep 2 - Data Collection
+## Sep 1 - Data Collection
 
 Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
@@ -137,7 +137,7 @@ Activities and assessments:
   - in-class problem set 2
   - in-class group work for exercise 1
 
-## Sep 9 - Coding Bootcamp I
+## Sep 8 - Coding Bootcamp I
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
@@ -151,7 +151,7 @@ Activities and assessments:
   - prep notes 2 due the Sunday before class
   - in-class problem set 3
 
-## Sep 16 - Coding Bootcamp II
+## Sep 15 - Coding Bootcamp II
 
 Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
@@ -164,7 +164,7 @@ Activities and assessments:
   - in-class problem set 4
   - in-class group work for exercise 2
 
-## Sep 23 - Working with Data
+## Sep 22 - Working with Data
 
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
@@ -179,7 +179,7 @@ Activities and assessments:
   - prep notes 4 due the Sunday before class
   - in-class problem set 5
 
-## Sep 30 - Visualizing Data
+## Sep 29 - Visualizing Data
 
 Learning objectives: we introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
@@ -193,7 +193,7 @@ Activities and assessments:
   - in-class problem set 6
   - in-class group work for exercise 3
 
-## Oct 7 - Spatial Data
+## Oct 6 - Spatial Data
 
 Learning objectives: we introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
@@ -206,7 +206,7 @@ Activities and assessments:
   - group exercise 3 due the Sunday before class
   - in-class problem set 7
 
-## Oct 14 - Spatial Data Workshop
+## Oct 13 - Spatial Data Workshop
 
 Learning objectives: we hold a workshop on working with spatial data.
 
@@ -219,11 +219,11 @@ Activities and assessments:
   - in-class group work for exercise 4
   - group exercise 4 due the day after class
 
-## Oct 21 - Midterm Exam
+## Oct 20 - Midterm Exam
 
 See assessments folder for details.
 
-## Oct 28 - APIs
+## Oct 27 - APIs
 
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
@@ -235,7 +235,7 @@ Activities and assessments:
   - prep notes 8 due the Sunday before class
   - in-class problem set 8
 
-## Nov 4 - Urban Models
+## Nov 3 - Urban Models
 
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
@@ -249,11 +249,18 @@ Activities and assessments:
   - in-class problem set 9
   - in-class group work for exercise 5
 
-## Nov 11 - No class
+## Nov 10 - AI and you
 
-Veterans Day Holiday
+Learning objectives: 
 
-## Nov 18 - Smart Cities and Informatics
+Pre-class prep: 
+   - n+1 It's OK to be a luddite
+
+Activities and assessments:
+   - in-class problem set 10
+   - in-class group work for exercise 5
+
+## Nov 17 - Smart Cities and Informatics
 
 Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
 
@@ -265,14 +272,14 @@ Activities and assessments:
   - prep notes 10 due the Sunday before class
   - in-class problem set 10
 
-## Nov 25 - Final Workshop
+## Nov 24 - Final Workshop
 
 Learning objectives: we review the semester's material, practice different skills, and work together on group projects.
 
 Activities and assessments:
   - in-class group work for the final projects
 
-## Dec 2 - Final Presentations
+## Dec 1 - Final Presentations
 
 Learning objectives: we present our final projects and receive feedback for revisions before final submission.
 
@@ -280,7 +287,7 @@ Activities and assessments:
   - in-class group presentations
   - in-class course evaluations and peer review
 
-## Dec 5 - Final Group Projects Due
+## Dec 4 - Final Group Projects Due
 
 See the assessments folder for details.
 
