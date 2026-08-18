@@ -4,15 +4,13 @@ USC PPD430 / Fall 2026 / 4 units
 
 # Instructor Info
 
-[Prof. Geoff Boeing](https://geoffboeing.com)
+Max Gardner
 
-Email: boeing at usc dot edu
+Email: maxg at usc dot edu
 
-Office hours: Tue 13:00-14:00, RGL 301A
+Office hours: Tuesdays 21:00-22:00 [VPDLL101](https://maps.usc.edu/?id=1928&reference=VPD) or other times by appointment only
 
-Classroom location and meeting times are [listed online](https://classes.usc.edu)
-
-TA: Jiyoon Kim (email: kimjiyoo at usc dot edu, office hours: Fri 14:00-15:00, on [Zoom]([url](https://calendly.com/kimjiyoo-usc/new-meeting)))
+Classroom location and meeting times: [VPDLL101](https://maps.usc.edu/?id=1928&reference=VPD) Tuesdays 18:00-21:20pm
 
 # Course Description
 
