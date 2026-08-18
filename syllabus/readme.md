@@ -10,7 +10,7 @@ Email: maxg at usc dot edu
 
 Office hours: Tuesdays 21:00-22:00 [VPDLL101](https://maps.usc.edu/?id=1928&reference=VPD) or other times by appointment only
 
-Classroom location and meeting times: [VPDLL101](https://maps.usc.edu/?id=1928&reference=VPD) Tuesdays 18:00-21:20pm
+Classroom location and meeting times: [VPDLL101](https://maps.usc.edu/?id=1928&reference=VPD) Tuesdays 18:00-21:20
 
 # Course Description
 
@@ -37,11 +37,11 @@ By the end of this course, students should be proficient in the following core s
 
 # Questions and Assistance
 
-We are available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions in our course's Slack channel: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus. To respect your time, I try to respond tersely online: please don't mistake this conciseness for rudeness.
+I am available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions on Brightspace: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus.
 
 ## Who to contact
 
-If you have a question about class material, homework, or a coding/data problem: post on Slack or drop by the TA's office hours. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
+If you have a question about class material, homework, or a coding/data problem: post on Brightspace or drop by office hours. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
 
 ## How to ask a technical question
 
@@ -71,7 +71,7 @@ The following sections outline the work you agree to do by enrolling in this cou
 
 ## Attendance Policy
 
-This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities. It is the student's responsibility to request notes, etc from others who were in attendance. Likewise there is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed.
+This is an in-person course. Students are expected to manage their schedules such that they can keep all of their commitments, including attending class. If you need to miss a class session, do not notify the instructor: attendance is not taken, so there are no "excused" versus "unexcused" absences, nor are there accommodations for missing in-class activities (which count towards your grade!). It is the student's responsibility to request notes, etc from others who were in attendance. Likewise there is no accommodation for travel: it's the student's responsibility to know the school schedule before they book travel and to adjust travel dates as needed.
 
 ## Submission Policy
 
@@ -81,7 +81,7 @@ Please submit early to avoid any last-minute headaches such as slow uploads, con
 
 ## Late Policy and Extensions
 
-The professional world demands punctuality, which we practice in this course through relatively strict deadlines. Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days to complete assignments that take, at most, a few hours. Procrastinate at your own peril.
+The professional world demands punctuality, which we practice in this course through relatively strict deadlines. Remember that assignment due dates are final deadlines, not indicators of when you're supposed to work on them. You are given several days to complete assignments that should take, at most, a few hours. Procrastinate at your own peril.
 
 However, sometimes things come up and we could use a little grace. Each assessment comes with a 12-hour, no-questions-asked grace period following its deadline during which it will be accepted as though on-time (does not apply to exams or final projects). You can submit after that for a 25% penalty until the submission system closes completely 24 hours after the original deadline.
 
@@ -112,7 +112,7 @@ Final grade percentage ranges and meaning:
 
 # Schedule
 
-## Aug 26 - Introduction
+## Aug 25 - Introduction
 
 Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
