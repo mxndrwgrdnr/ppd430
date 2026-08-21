@@ -41,7 +41,7 @@ I am available if you need help throughout the semester and are happy to answer 
 
 ## Who to contact
 
-If you have a question about class material, homework, or a coding/data problem: post on Brightspace or drop by office hours. If you have a specific question for the professor outside of those categories, please drop by his office hours to chat.
+If you have a question about class material, homework, or a coding/data problem: post on Brightspace or drop by office hours. If you have a specific question for the instructor outside of those categories, please drop by his office hours to chat.
 
 ## How to ask a technical question
 
@@ -91,7 +91,7 @@ You additionally have two "free drops" that you can use to drop any individual a
 
 You can expect the grade you earned to be posted within two weeks of each assessment's due date. Grades are earned solely based on how well submissions fulfill the instructions and demonstrate your proficiency in the material. Effort and time spent do not factor in to grades. If your demonstrated proficiency is not where you want it to be, start coming to office hours, refocus your effort onto more effective study strategies, and optionally consider tutoring services.
 
-Posted grades are final and non-negotiable. This policy exists to protect you and ensure equitable outcomes for both you and your classmates. Professors don't arbitrarily hand out grades, and thus they should never arbitrarily alter them either. Accordingly, no grade disputes regarding the grader's expert judgment and standards will be considered. However, if we have made a clerical error in inputting your grade (e.g., you earned a certain number of points but we summed them incorrectly when tabulating the final grade), please provide specific documentation of that clerical error and we'll be happy to correct it.
+Posted grades are final and non-negotiable. This policy exists to protect you and ensure equitable outcomes for both you and your classmates. Universities don't arbitrarily hand out grades, and thus they should never arbitrarily alter them either. Accordingly, no grade disputes regarding the grader's expert judgment and standards will be considered. However, if we have made a clerical error in inputting your grade (e.g., you earned a certain number of points but we summed them incorrectly when tabulating the final grade), please provide specific documentation of that clerical error and we'll be happy to correct it.
 
 Final grade weighting (there is no extra credit):
 
@@ -122,7 +122,7 @@ Pre-class prep:
 
 Activities and assessments:
   - in-class problem set 1
-  - in-class pre-course survey and Slack introductions
+  - in-class pre-course survey and student introductions
 
 ## Sep 1 - Data Collection
 
