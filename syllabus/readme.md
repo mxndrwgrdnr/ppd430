@@ -249,28 +249,30 @@ Activities and assessments:
   - in-class problem set 9
   - in-class group work for exercise 5
 
-## Nov 10 - AI and you
+## Nov 10 - Smart Cities, AI, and Ethics of Urban Informatics
 
-Learning objectives: 
+Learning objectives: we introduce the social context and limitations of urban informatics through the lens of "Smart Cities" and AI
 
 Pre-class prep: 
-   - n+1 It's OK to be a luddite
+   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+   - The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
 
 Activities and assessments:
    - in-class problem set 10
    - in-class group work for exercise 5
 
-## Nov 17 - Smart Cities and Informatics
-
-Learning objectives: we introduce the social context and limitations of urban informatics, then consider the smart cities paradigm, civic technology, and citizen science.
+## Nov 17 - More fun with maps
+Learning objectives: we survey a variety of mapping concepts and techniques and Python tools for implementing them. 
 
 Pre-class prep:
-  - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+  - https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/
+  - https://www.axismaps.com/guide/what-is-a-web-map
+  - https://mapschool.io/
 
 Activities and assessments:
   - group exercise 5 due the Sunday before class
   - prep notes 10 due the Sunday before class
-  - in-class problem set 10
+  - in-class problem set 11
 
 ## Nov 24 - Final Workshop
 
