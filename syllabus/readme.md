@@ -260,6 +260,7 @@ Pre-class prep:
 Activities and assessments:
    - in-class problem set 10
    - in-class group work for exercise 5
+   - prep notes 10 due the Sunday before class
 
 ## Nov 17 - More fun with maps
 Learning objectives: we survey a variety of mapping concepts and techniques and Python tools for implementing them. 
@@ -267,11 +268,12 @@ Learning objectives: we survey a variety of mapping concepts and techniques and 
 Pre-class prep:
   - https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/
   - https://www.axismaps.com/guide/what-is-a-web-map
+  - https://www.axismaps.com/guide/dot-density
   - https://mapschool.io/
+  - Rankin, Mapping social statistics. [Direct link](https://www.youtube.com/watch?v=8pRcdMVkA3k)
 
 Activities and assessments:
   - group exercise 5 due the Sunday before class
-  - prep notes 10 due the Sunday before class
   - in-class problem set 11
 
 ## Nov 24 - Final Workshop
