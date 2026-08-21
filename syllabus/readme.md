@@ -199,7 +199,7 @@ Learning objectives: we introduce the basics of loading spatial data, projecting
 
 Pre-class prep:
   - Video lecture "05-spatial-data"
-  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/introGIS.html).
+  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/).
 
 Activities and assessments:
   - prep notes 6 due the Sunday before class
