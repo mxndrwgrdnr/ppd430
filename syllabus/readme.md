@@ -37,11 +37,11 @@ By the end of this course, students should be proficient in the following core s
 
 # Questions and Assistance
 
-I am available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions on Brightspace: you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus.
+I am available if you need help throughout the semester and are happy to answer your questions. Please ask course-related questions on Brightspace or Slack (TBD): you should expect a reply typically within two working days. If you have a sensitive personal matter to discuss, please ask by email. Office hours info is provided at the beginning of the syllabus.
 
 ## Who to contact
 
-If you have a question about class material, homework, or a coding/data problem: post on Brightspace or drop by office hours. If you have a specific question for the instructor outside of those categories, please drop by his office hours to chat.
+If you have a question about class material, homework, or a coding/data problem: post on Brightspace or Slack (TBD) drop by office hours. If you have a specific question for the instructor outside of those categories, please drop by his office hours to chat.
 
 ## How to ask a technical question
 
