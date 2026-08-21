@@ -334,7 +334,16 @@ Our classroom adheres to four central norms of professionalism:
   - We alone are responsible for our own actions.
   - We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
 
-## Support Systems
+## Statement on University Academic and Support Systems
+ 
+### Students and Disability Accommodations
+USC welcomes students with disabilities into all of the University’s educational programs. The [Office of Student Accessibility Services (OSAS)](https://osas.usc.edu/) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at [osas.usc.edu](osas.usc.edu). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
+ 
+### Student Financial Aid and Satisfactory Academic Progress
+To be eligible for certain kinds of financial aid, students are required to maintain Satisfactory Academic Progress (SAP) toward their degree objectives. Visit the [Financial Aid Office webpage](https://financialaid.usc.edu/) for undergraduate- and graduate-level SAP eligibility requirements and the appeals process.
+
+
+### Support Systems
 
 Student Financial Aid and Satisfactory Academic Progress: To be eligible for certain kinds of financial aid, students are required to maintain Satisfactory Academic Progress (SAP) toward their degree objectives. Visit the Financial Aid Office webpage for undergraduate- and graduate-level SAP eligibility requirements and the appeals process.
 
