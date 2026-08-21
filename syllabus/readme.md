@@ -63,7 +63,7 @@ We do not ask for this to be pedantic. Rather, we need it to be able to help you
 
 # Materials
 
-Coursework will be based on free open-source software. Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading, taken thorough notes, and prepared any questions you may have about the material.
+Coursework will be based on free open-source software. Copyrighted course reading materials are available via Brightspace for enrolled students to download. The course lectures assume that you have read the assigned readings prior to the class session and are now reasonably fluent in their contents and ready to discuss/debate them in class. Lectures are supplemental to the assigned reading and are of little value if you haven't taken the time to prepare in advance. So, before class, make sure you have completed the assigned reading or video lecture, taken thorough notes, and prepared any questions you may have about the material.
 
 # Coursework
 
@@ -121,7 +121,7 @@ Pre-class prep:
   - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Activities and assessments:
-  - in-class problem set 1
+  - in-class problem set
   - in-class pre-course survey and student introductions
 
 ## Sep 1 - Data Collection
