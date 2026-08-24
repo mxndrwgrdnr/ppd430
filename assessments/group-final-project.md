@@ -34,7 +34,7 @@ Via Brightspace, submit a zip file containing the narrative paper (as PDF, with 
 
 ## Presentation
 
-We will have final group presentations in-person in class. Each group will have 10 minutes to present. We will go in numerical group order, so be prepared when it is your group's turn. Remember the expectations we discussed in class: 1) each group member must take a turn speaking, 2) stick to your allotted time, 3) follow the general format of the final paper's sections (see the final project instructions for details), 4) don't overthink these presentations - they are not meant to be onerous, but rather your opportunity for a dry run and feedback before you turn in your final projects next week.
+We will have final group presentations in-person in class. Each group will have 15 minutes to present. We will go in numerical group order, so be prepared when it is your group's turn. Remember the expectations we discussed in class: 1) each group member must take a turn speaking, 2) stick to your allotted time, 3) follow the general format of the final paper's sections (see the final project instructions for details), 4) don't overthink these presentations - they are not meant to be onerous, but rather your opportunity for a dry run and feedback before you turn in your final projects next week.
 
 Choose one group member to have your group's slides ready to go on their computer. When it's your group's turn to present, you will come up to the front of the classroom, connect to the HDMI, and give your talk. Practice your talk collectively a couple times in advance so it flows smoothly and adheres to the required time length, so you're not rushed.
 
