@@ -187,6 +187,8 @@ Pre-class prep:
 - Video lecture "04-data-visualization"
 - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 - Tufte, Visual Display of Quantitative Information, ch. 1-3
+- https://pandas.pydata.org/docs/user_guide/merging.html
+- https://pandas.pydata.org/docs/user_guide/groupby.html
 
 Activities and assessments:
   - prep notes 5 due the Sunday before class
@@ -248,21 +250,9 @@ Activities and assessments:
   - prep notes 9 due the Sunday before class
   - in-class problem set 9
   - in-class group work for exercise 5
+  
 
-## Nov 10 - Smart Cities, AI, and Ethics of Urban Informatics
-
-Learning objectives: we introduce the social context and limitations of urban informatics through the lens of "Smart Cities" and AI
-
-Pre-class prep: 
-   - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
-   - The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
-
-Activities and assessments:
-   - in-class problem set 10
-   - in-class group work for exercise 5
-   - prep notes 10 due the Sunday before class
-
-## Nov 17 - More fun with maps
+## Nov 10 - More fun with maps
 Learning objectives: we survey a variety of mapping concepts and techniques and Python tools for implementing them. 
 
 Pre-class prep:
@@ -273,15 +263,27 @@ Pre-class prep:
   - Rankin, Mapping social statistics. [Direct link](https://www.youtube.com/watch?v=8pRcdMVkA3k)
 
 Activities and assessments:
-  - group exercise 5 due the Sunday before class
-  - in-class problem set 11
+  - in-class problem set 10
+  - in-class group work for exercise 5
 
-## Nov 24 - Final Workshop
+## Nov 17 - Final Workshop
 
 Learning objectives: we review the semester's material, practice different skills, and work together on group projects.
 
 Activities and assessments:
+  - group exercise 5 due the Sunday before class
   - in-class group work for the final projects
+
+
+## Nov 24 - ~~Smart Cities, AI, and Ethics of Urban Informatics~~ NO CLASS (Thanksgiving)
+Learning objectives: we introduce the social context and limitations of urban informatics through the lens of "Smart Cities" and AI. No in-person class but you must still do the readings and submit prep notes.
+
+Pre-class prep:
+  -  Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+  - The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
+
+Activities and assessments:
+  - prep notes 10 due the Sunday before class
 
 ## Dec 1 - Final Presentations
 
