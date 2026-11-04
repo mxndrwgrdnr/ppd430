@@ -297,6 +297,11 @@ Activities and assessments:
 
 Learning objectives: we review the semester's material, practice different skills, and work together on group projects.
 
+Pre-class prep:
+
+- "Group4_Socioeconomic Status and Health Outcomes"
+  - Example final project from last year (on Brightspace: Content > "Misc.")
+
 Activities and assessments:
 
 - group exercise 5 due the Sunday before class
