@@ -18,9 +18,9 @@ This course empowers you to consume, produce, and evaluate urban data to better 
 
 Each week, students will be expected to:
 
-  - Complete and be prepared to discuss assigned readings and videos
-  - Complete and submit any learning assessments due
-  - Attend the class session
+- Complete and be prepared to discuss assigned readings and videos
+- Complete and submit any learning assessments due
+- Attend the class session
 
 The course has no specific prerequisites. Coding itself will be taught from the ground-up. However, this course requires patience and practice: learning to code will take lots of trial-and-error, self-direction, repetition, and experimentation on your part. You will get out of it what you are willing to put into it. Please note that this syllabus is a living document and may be updated by the instructor during the semester as needed.
 
@@ -28,12 +28,12 @@ The course has no specific prerequisites. Coding itself will be taught from the 
 
 By the end of this course, students should be proficient in the following core skills and knowledge necessary in the field after graduation.
 
-  - Basic coding in Python
-  - Collect urban data from the web and APIs
-  - Explore, wrangle, clean, transform, and merge data
-  - Visualize and map urban data
-  - Conduct basic urban analytics
-  - Communicate critically about analytics in a public setting
+- Basic coding in Python
+- Collect urban data from the web and APIs
+- Explore, wrangle, clean, transform, and merge data
+- Visualize and map urban data
+- Conduct basic urban analytics
+- Communicate critically about analytics in a public setting
 
 # Questions and Assistance
 
@@ -47,17 +47,17 @@ If you have a question about class material, homework, or a coding/data problem:
 
 Given the nature of this course, we do expect a few things of you before you seek assistance with coding/data questions:
 
-  1. Close all open programs, restart your computer, then try your task again
-  2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
-  3. Go back through the relevant lecture materials to look for any insights
-  4. Go back through the assigned reading materials to look for any insights
-  5. Ask your teammates if they have any insight
+1. Close all open programs, restart your computer, then try your task again
+2. Search Google and StackOverflow for the topic/problem (for example, the name of the function you're struggling with or the error message you are seeing)
+3. Go back through the relevant lecture materials to look for any insights
+4. Go back through the assigned reading materials to look for any insights
+5. Ask your teammates if they have any insight
 
 If the above steps haven't solved your problem, post on Slack and include the following information:
 
-  1. A detailed description of what you're trying to do, why, and how
-  2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
-  3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
+1. A detailed description of what you're trying to do, why, and how
+2. A complete [minimal reproducible example](https://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports) of your code so far (never send screenshots of code/tracebacks)
+3. What you've already tried to do to solve your problem and what you have learned from it so far (specifically, explain the results of steps 1-4 above, including relevant links from StackOverflow etc)
 
 We do not ask for this to be pedantic. Rather, we need it to be able to help you solve your issue and avoid the [XY Problem](https://en.wikipedia.org/wiki/XY_problem).
 
@@ -95,20 +95,20 @@ Posted grades are final and non-negotiable. This policy exists to protect you an
 
 Final grade weighting (there is no extra credit):
 
-  - 10%: ten individual preparatory notes
-  - 25%: ten individual in-class problem sets
-  - 25%: individual midterm exam
-  - 25%: five group exercises
-  - 10%: final group project and presentation
-  - 5%:  peer review
+- 10%: ten individual preparatory notes
+- 25%: ten individual in-class problem sets
+- 25%: individual midterm exam
+- 25%: five group exercises
+- 10%: final group project and presentation
+- 5%:  peer review
 
 Final grade percentage ranges and meaning:
 
-  - 90 ≤ A (high pass with distinction)
-  - 80 ≤ B < 90 (high pass)
-  - 70 ≤ C < 80 (pass)
-  - 60 ≤ D < 70 (low pass)
-  - F < 60 (fail)
+- 90 ≤ A (high pass with distinction)
+- 80 ≤ B < 90 (high pass)
+- 70 ≤ C < 80 (pass)
+- 60 ≤ D < 70 (low pass)
+- F < 60 (fail)
 
 # Schedule
 
@@ -117,73 +117,84 @@ Final grade percentage ranges and meaning:
 Learning objectives: course policies, the semester's schedule, and the computing environment for coursework.
 
 Pre-class prep:
-  - this syllabus
-  - TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
+
+- this syllabus
+- TutorialsPoint [Google Colab Tutorial](https://www.tutorialspoint.com/google_colab/) (from the beginning through the "sharing your notebook" section).
 
 Activities and assessments:
-  - in-class problem set
-  - in-class pre-course survey and student introductions
+
+- in-class problem set
+- in-class pre-course survey and student introductions
 
 ## Sep 1 - Data Collection
 
 Learning objectives: basic statistical concepts and terms, the US census and its methods, and sources of data including the decennial census, the ACS, and government data portals.
 
 Pre-class prep:
-  - Wheelan, Naked Statistics, intro + ch. 1
-  - Urdan, Statistics in Plain English, ch. 1.
+
+- Wheelan, Naked Statistics, intro + ch. 1
+- Urdan, Statistics in Plain English, ch. 1.
 
 Activities and assessments:
-  - prep notes 1 due the Sunday before class
-  - in-class problem set 2
-  - in-class group work for exercise 1
+
+- prep notes 1 due the Sunday before class
+- in-class problem set 2
+- in-class group work for exercise 1
 
 ## Sep 8 - Coding Bootcamp I
 
 Learning objectives: we introduce the basics of Python, a powerful programming language for data analysis, visualization, and software development; then we work with Python via the Jupyter notebook, which lets you use Python in an interactive coding environment.
 
 Pre-class prep:
-  - *Optional* review the readings from module 1 again
-  - Video lecture "01-coding-bootcamp-1"
-  - Downey, Think Python, 3rd ed., ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
+
+- *Optional* review the readings from module 1 again
+- Video lecture "01-coding-bootcamp-1"
+- Downey, Think Python, 3rd ed., ch. 1-3. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
 
 Activities and assessments:
-  - group exercise 1 due the Sunday before class
-  - prep notes 2 due the Sunday before class
-  - in-class problem set 3
+
+- group exercise 1 due the Sunday before class
+- prep notes 2 due the Sunday before class
+- in-class problem set 3
 
 ## Sep 15 - Coding Bootcamp II
 
 Learning objectives: we introduce the basics of control flow - using loops, conditionals, and functions to control the logic and flow of your code's execution.
 
 Pre-class prep:
-  - Video lecture "02-coding-bootcamp-2"
-  - Downey, Think Python, 3rd ed., ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
+
+- Video lecture "02-coding-bootcamp-2"
+- Downey, Think Python, 3rd ed., ch. 4-7. [Direct link](https://greenteapress.com/wp/think-python-3rd-edition/)
 
 Activities and assessments:
-  - prep notes 3 due the Sunday before class
-  - in-class problem set 4
-  - in-class group work for exercise 2
+
+- prep notes 3 due the Sunday before class
+- in-class problem set 4
+- in-class group work for exercise 2
 
 ## Sep 22 - Working with Data
 
 Learning objectives: we introduce the basics of loading and cleaning data, then discovering patterns in them with descriptive statistics.
 
 Pre-class prep:
-  - Video lecture "03-data-cleaning-description"
-  - Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb) (through the section "Mounting Google Drive locally")
-  - Wheelan, Naked Statistics, ch. 2-3
-  - Urdan, Statistics in Plain English, ch. 2-3.
+
+- Video lecture "03-data-cleaning-description"
+- Google Colab External Data [Tutorial](https://colab.research.google.com/notebooks/io.ipynb) (through the section "Mounting Google Drive locally")
+- Wheelan, Naked Statistics, ch. 2-3
+- Urdan, Statistics in Plain English, ch. 2-3.
 
 Activities and assessments:
-  - group exercise 2 due the Sunday before class
-  - prep notes 4 due the Sunday before class
-  - in-class problem set 5
+
+- group exercise 2 due the Sunday before class
+- prep notes 4 due the Sunday before class
+- in-class problem set 5
 
 ## Sep 29 - Visualizing Data
 
 Learning objectives: we introduce the basics of visualizing data for exploratory analysis: looking visually for summaries, patterns, and trends.
 
 Pre-class prep:
+
 - Video lecture "04-data-visualization"
 - Muth, blog post on [choosing colors](https://blog.datawrapper.de/colors/)
 - Tufte, Visual Display of Quantitative Information, ch. 1-3
@@ -191,35 +202,40 @@ Pre-class prep:
 - https://pandas.pydata.org/docs/user_guide/groupby.html
 
 Activities and assessments:
-  - prep notes 5 due the Sunday before class
-  - in-class problem set 6
-  - in-class group work for exercise 3
+
+- prep notes 5 due the Sunday before class
+- in-class problem set 6
+- in-class group work for exercise 3
 
 ## Oct 6 - Spatial Data
 
 Learning objectives: we introduce the basics of loading spatial data, projecting them, analyzing them, and mapping them.
 
 Pre-class prep:
-  - Video lecture "05-spatial-data"
-  - Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/).
+
+- Video lecture "05-spatial-data"
+- Gimond, Intro to GIS and Spatial Analysis, ch. 1, 2, 9. [Direct link](https://mgimond.github.io/Spatial/).
 
 Activities and assessments:
-  - prep notes 6 due the Sunday before class
-  - group exercise 3 due the Sunday before class
-  - in-class problem set 7
+
+- prep notes 6 due the Sunday before class
+- group exercise 3 due the Sunday before class
+- in-class problem set 7
 
 ## Oct 13 - Spatial Data Workshop
 
 Learning objectives: we hold a workshop on working with spatial data.
 
 Pre-class prep:
-  - Wheelan, Naked Statistics, ch. 8-10
+
+- Wheelan, Naked Statistics, ch. 8-10
 
 Activities and assessments:
-  - prep notes 7 due the Sunday before class
-  - in-class mid-term review
-  - in-class group work for exercise 4
-  - group exercise 4 due the day after class
+
+- prep notes 7 due the Sunday before class
+- in-class mid-term review
+- in-class group work for exercise 4
+- group exercise 4 due the day after class
 
 ## Oct 20 - Midterm Exam
 
@@ -230,68 +246,83 @@ See assessments folder for details.
 Learning objectives: we introduce working with APIs to automatically collect data from the Internet.
 
 Pre-class prep:
-  - Video lecture "06-apis"
-  - Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
+
+- Video lecture "06-apis"
+- Park. 2019. How Do APIs Work? Tray.io. [Direct link](https://tray.io/blog/how-do-apis-work).
 
 Activities and assessments:
-  - prep notes 8 due the Sunday before class
-  - in-class problem set 8
+
+- prep notes 8 due the Sunday before class
+- in-class problem set 8
 
 ## Nov 3 - Urban Models
 
 Learning objectives: we introduce the uses and abuses of urban models and explore their specification, estimation, and interpretation.
 
 Pre-class prep:
-  - Video lecture "07-statistical-models"
-  - Singleton et al., Urban Analytics, ch. 6
-  - Wheelan, Naked Statistics, ch. 4 + 11-13
+
+- Video lecture "07-statistical-models"
+- Singleton et al., Urban Analytics, ch. 6
+- Wheelan, Naked Statistics, ch. 4 + 11-13
 
 Activities and assessments:
-  - prep notes 9 due the Sunday before class
-  - in-class problem set 9
-  - in-class group work for exercise 5
-  
+
+- prep notes 9 due the Sunday before class
+- in-class problem set 9
+- in-class group work for exercise 5
 
 ## Nov 10 - More fun with maps
+
 Learning objectives: we survey a variety of mapping concepts and techniques and Python tools for implementing them. 
 
 Pre-class prep:
-  - https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/
-  - https://www.axismaps.com/guide/what-is-a-web-map
-  - https://www.axismaps.com/guide/dot-density
-  - https://mapschool.io/
-  - Rankin, Mapping social statistics. [Direct link](https://www.youtube.com/watch?v=8pRcdMVkA3k)
+
+- https://mapbrief.com/2017/04/06/few-interact-with-our-interactive-maps-what-can-we-do-about-it/
+- https://www.axismaps.com/guide/what-is-a-web-map
+- [https://www.axismaps.com/guide/data-classification](https://www.axismaps.com/guide/data-classification)
+- [https://www.axismaps.com/guide/standardizing-data](https://www.axismaps.com/guide/standardizing-data)
+- [https://www.axismaps.com/guide/choropleth](https://www.axismaps.com/guide/choropleth)
+- [https://www.axismaps.com/guide/multivariate-vs-univariate](https://www.axismaps.com/guide/multivariate-vs-univariate)
+- [https://www.axismaps.com/guide/proportional-symbols](https://www.axismaps.com/guide/proportional-symbols)
+- https://www.axismaps.com/guide/dot-density
+- https://mapschool.io/
+- Rankin, Mapping social statistics. [Direct link](https://www.youtube.com/watch?v=8pRcdMVkA3k)
 
 Activities and assessments:
-  - in-class problem set 10
-  - in-class group work for exercise 5
+
+- in-class problem set 10
+- in-class group work for exercise 5
 
 ## Nov 17 - Final Workshop
 
 Learning objectives: we review the semester's material, practice different skills, and work together on group projects.
 
 Activities and assessments:
-  - group exercise 5 due the Sunday before class
-  - in-class group work for the final projects
 
+- group exercise 5 due the Sunday before class
+- in-class group work for the final projects
 
 ## Nov 24 - ~~Smart Cities, AI, and Ethics of Urban Informatics~~ NO CLASS (Thanksgiving)
+
 Learning objectives: we introduce the social context and limitations of urban informatics through the lens of "Smart Cities" and AI. No in-person class but you must still do the readings and submit prep notes.
 
 Pre-class prep:
-  -  Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
-  - The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
+
+- Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
+- The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
 
 Activities and assessments:
-  - prep notes 10 due the Sunday before class
+
+- prep notes 10 due the Sunday before class
 
 ## Dec 1 - Final Presentations
 
 Learning objectives: we present our final projects and receive feedback for revisions before final submission.
 
 Activities and assessments:
-  - in-class group presentations
-  - in-class course evaluations and peer review
+
+- in-class group presentations
+- in-class course evaluations and peer review
 
 ## Dec 4 - Final Group Projects Due
 
@@ -316,34 +347,35 @@ Content generated from AI or similar tools including ChatGPT and Google Translat
 Recording a university class in any form (including photography, video, and audio) is forbidden without the express permission of the instructor and announcement to the class, or unless conducted pursuant to an OSAS accommodation. Recording can inhibit free discussion in the future, and thus infringe on the academic freedom of other students as well as the instructor. Distribution or use of notes, recordings, exams, or other intellectual property based on university classes or lectures for purposes other than individual or group study is forbidden without the express permission of the instructor. This includes but is not limited to providing materials for distribution by services publishing course materials. This restriction on unauthorized use also applies to all information which had been distributed to students or in any way had been displayed for use in relationship to the class, whether obtained in class, via email, on the internet, or via any other media. Refer to the USC Student Handbook for further details.
 
 The University of Southern California is foremost a learning community committed to fostering successful scholars and researchers dedicated to the pursuit of knowledge and the transmission of ideas. Academic misconduct is contrary to this fundamental mission and includes any act of dishonesty in the submission of academic work (either in draft or final form), as well as cheating, plagiarism, fabrication (e.g., falsifying data), knowingly assisting others in acts of academic dishonesty, and any act that gains or is intended to gain an unfair academic advantage. Students are expected to uphold the highest standards of academic integrity in all coursework. This course follows the expectations for academic integrity as stated in the [USC Student Handbook](https://policy.usc.edu/studenthandbook/). All students are expected to submit assignments that are original work and prepared specifically for the course/section in this academic term. Students may not submit work written by others or “recycle” work prepared for other courses without obtaining written permission from the instructor(s). Students suspected of academic misconduct will be reported to the Office of Academic Integrity.
- 
+
 Academic dishonesty has a far-reaching impact and is considered a serious offense against the university. Violations will result in a grade penalty, such as a failing grade on the assignment or in the course, and disciplinary action from the university, such as suspension or expulsion. For more information about academic integrity see the [Student Handbook](https://policy.usc.edu/studenthandbook/), the [Office of Academic Integrity’s website](https://academicintegrity.usc.edu/), and university policies on [Research and Scholarship Misconduct](https://policy.usc.edu/research-and-scholarship-misconduct/). Please ask your instructor if you are unsure what constitutes unauthorized assistance on an exam or assignment or what information requires citation and/or attribution.
 Instructors determine whether and how generative AI tools (such as ChatGPT, Copilot, Claude, Gemini, and similar applications) and other external resources (such as English-language translation tools) may be used in this course. Expectations may vary from assignment to assignment. This includes AI tools that record, transcribe, or summarize class sessions, which may require express instructor permission. Review the AI use guidance provided below carefully, and direct any questions to your instructor before submitting work.
 Students seeking general guidance may consult the following resources:
-  - [USC Student Handbook](https://policy.usc.edu/studenthandbook/)
-  - [Generative AI General Policy](https://policy.usc.edu/generative-ai-general-policy/)
-  - [Practical Tips for Using AI in Academic Work](https://libraries.usc.edu/ai-literacy#ai-resources)
-  - [Office of Academic Integrity’](https://academicintegrity.usc.edu/)
 
-
+- [USC Student Handbook](https://policy.usc.edu/studenthandbook/)
+- [Generative AI General Policy](https://policy.usc.edu/generative-ai-general-policy/)
+- [Practical Tips for Using AI in Academic Work](https://libraries.usc.edu/ai-literacy#ai-resources)
+- [Office of Academic Integrity’](https://academicintegrity.usc.edu/)
 
 ## Classroom Norms
 
 Our classroom adheres to four central norms of professionalism:
 
-  - We respect others' opinions, but defer to facts.
-  - We give honest criticism, but keep it constructive and courteous.
-  - We alone are responsible for our own actions.
-  - We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
+- We respect others' opinions, but defer to facts.
+- We give honest criticism, but keep it constructive and courteous.
+- We alone are responsible for our own actions.
+- We adhere to the syllabus, so the squeaky wheel does not gain an advantage over their peers.
 
 ## Statement on University Academic and Support Systems
- 
+
 ### Students and Disability Accommodations
+
 USC welcomes students with disabilities into all of the University’s educational programs. The [Office of Student Accessibility Services (OSAS)](https://osas.usc.edu/) is responsible for the determination of appropriate accommodations for students who encounter disability-related barriers. Once a student has completed the OSAS process (registration, initial appointment, and submitted documentation) and accommodations are determined to be reasonable and appropriate, a Letter of Accommodation (LOA) will be available to generate for each course. The LOA must be given to each course instructor by the student and followed up with a discussion. This should be done as early in the semester as possible as accommodations are not retroactive. More information can be found at [osas.usc.edu](osas.usc.edu). You may contact OSAS at (213) 740-0776 or via email at osasfrontdesk@usc.edu.
  
-### Student Financial Aid and Satisfactory Academic Progress
-To be eligible for certain kinds of financial aid, students are required to maintain Satisfactory Academic Progress (SAP) toward their degree objectives. Visit the [Financial Aid Office webpage](https://financialaid.usc.edu/) for undergraduate- and graduate-level SAP eligibility requirements and the appeals process.
 
+### Student Financial Aid and Satisfactory Academic Progress
+
+To be eligible for certain kinds of financial aid, students are required to maintain Satisfactory Academic Progress (SAP) toward their degree objectives. Visit the [Financial Aid Office webpage](https://financialaid.usc.edu/) for undergraduate- and graduate-level SAP eligibility requirements and the appeals process.
 
 ### Support Systems
 
