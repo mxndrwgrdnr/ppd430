@@ -290,6 +290,7 @@ Pre-class prep:
 
 Activities and assessments:
 
+- prep notes 10 due before class on Tuesday @ 6pm
 - in-class problem set 10
 - in-class group work for exercise 5
 
@@ -312,13 +313,12 @@ Activities and assessments:
 Learning objectives: we introduce the social context and limitations of urban informatics through the lens of "Smart Cities" and AI. No in-person class but you must still do the readings and submit prep notes.
 
 Pre-class prep:
-
 - Mattern, A City Is Not a Computer. Places. [Direct link](https://placesjournal.org/article/a-city-is-not-a-computer/).
 - The Editors, Large Language Muddle. n+1 Issue 51, Force Majeure. [Direct link](https://www.nplusonemag.com/issue-51/the-intellectual-situation/large-language-muddle/)
 
 Activities and assessments:
 
-- prep notes 10 due the Sunday before class
+- prep notes 11 due the Sunday before class
 
 ## Dec 1 - Final Presentations
 
